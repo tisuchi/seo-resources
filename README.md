@@ -1,4 +1,4 @@
 # SEO Resources
 
-[Begineer Level INTRODUCTION.md]
+[Begineer Level](INTRODUCTION.md)
 
